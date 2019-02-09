@@ -6,15 +6,15 @@
 * css : 示例代码中的公共 css。
 
 #### 示例
-* [初级入门：从一个点开始 : pages/lesson1.html](http://ifanqi.top/webgl/pages/lesson1.html)
+* [初级入门：从一个点开始 : pages/lesson1.html](./pages/lesson1.html)
 	* [源码](https://github.com/lucefer/webgl/blob/master/pages/lesson1.html)
-* [初级入门：动态绘制点 : pages/lesson1.1.html](http://ifanqi.top/webgl/pages/lesson1.1.html)
+* [初级入门：动态绘制点 : pages/lesson1.1.html](./pages/lesson1.1.html)
 	* [源码](https://github.com/lucefer/webgl/blob/master/pages/lesson1.1.html)
-* [初级入门：绘制线段](http://ifanqi.top/webgl/pages/lesson5.html)
+* [初级入门：绘制线段](./pages/lesson5.html)
 	* [源码](https://github.com/lucefer/webgl/blob/master/pages/lesson5.html)
-* [初级入门：绘制三角形 : pages/lesson2.html](http://ifanqi.top/webgl/pages/lesson2.html)
+* [初级入门：绘制三角形 : pages/lesson2.html](./pages/lesson2.html)
 	* [源码](https://github.com/lucefer/webgl/blob/master/pages/lesson2.html)
-* [初级入门：绘制渐变三角形(多缓冲) : pages/lesson3.html](http://ifanqi.top/webgl/pages/lesson3.html)
+* [初级入门：绘制渐变三角形(多缓冲) : pages/lesson3.html](./pages/lesson3.html)
 	* [源码](https://github.com/lucefer/webgl/blob/master/pages/lesson3.html)
 * [初级入门：绘制渐变三角形(单缓冲) : pages/lesson4.html](http://ifanqi.top/webgl/pages/lesson4.html)
 	* [源码](https://github.com/lucefer/webgl/blob/master/pages/lesson4.html)
